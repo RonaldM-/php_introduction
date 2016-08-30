@@ -17,6 +17,7 @@
     </select>
     <p>Price</p>
     <input type="text" name="price" size="4">€<br>
+    <pTva<br>
     <input type="text" name="tva" size="2">%<br>
     <input type="submit" value="Value">
 </form>
